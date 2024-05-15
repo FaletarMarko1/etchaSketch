@@ -1,4 +1,4 @@
-#etchaSketch
+# etchaSketch
 
 This is a little project i did while following the Odin project course.
 
